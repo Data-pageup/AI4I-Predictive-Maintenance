@@ -6,9 +6,9 @@
 
 3. Data Cleaning    [done]
 
-4. Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA) [Done]
 
-5. Feature Engineering
+5. Feature Engineering [ Done ]
 
 6. Train / Test Split
 
