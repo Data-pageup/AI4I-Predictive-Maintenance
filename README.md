@@ -10,11 +10,11 @@
 
 5. Feature Engineering [ Done ]
 
-6. Train / Test Split
+6. Train / Test Split [Done]
 
-7. Data Imbalance Handling
+7. Preprocessing [Done]
 
-8. Preprocessing
+8.  Data Imbalance Handling
 
 9. Model Building
 
@@ -26,4 +26,4 @@
 
 13. MLflow Experiment Tracking
 
-14. Final Model Selection
+15. Final Model Selection
